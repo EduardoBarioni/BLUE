@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<launch>
+
+     <!-- MAP SERVER -->
+    <node name="map_server" pkg="map_server" type="map_server" args="/home/agvs/.cw/src/firmware-ros/firmware/map.yaml" output="screen">
+    </node>
+
+     <!-- AMCL -->
+     <node pkg="amcl" type="amcl" name="amcl" output="screen">
+         <remap from="scan" to="/sick_safetyscanners/scan" />
+         <!-- <remap from="map" to="front_frame" /> -->
+         <remap from="/diagnostics" to="diagnostics" />
+	 
+         <param name="update_min_d" value="0.1" /> <!-- 0.1 -->
+         <param name="update_min_a" value="0.3141" /> <!-- 0.3141 -->
+         <param name="max_particles" value="2000" />
+         <param name="laser_likelihood_max_dist" value="10" />  
+
+         <!-- Teste -->
+	 <param name="odom_alpha1" value="0.2" />
+         <param name="odom_alpha2" value="0.3" />
+	 <param name="odom_alpha3" value="0.6" />
+         <param name="odom_alpha4" value="0.4" />
+         <param name="odom_alpha5" value="0.03" />
+	 <param name="odom_model_type" value="omni-corrected" />
+	 <!-- Fim teste -->          
+
+         <param name="global_frame_id" value="map" />
+         <param name="odom_frame_id" value="odom"/>
+         <param name="base_frame_id" value="base_frame"/>
+         <param name="initial_pose_x" value="0" />
+         <param name="initial_pose_y" value="0" />
+         <param name="initial_pose_a" value="0" />
+
+     </node>
+
+</launch>

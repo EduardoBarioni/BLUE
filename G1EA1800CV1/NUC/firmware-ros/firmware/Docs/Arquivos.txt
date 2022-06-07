@@ -1,0 +1,8 @@
+Estados.py --> Controle principal
+
+GerenciamentoVelocidade.py --> Velocidade, PID da direção
+
+GerenciamentoTag.py --> Leitura de tags (Antena UHF)
+
+Iluminacao.py --> LEDs
+

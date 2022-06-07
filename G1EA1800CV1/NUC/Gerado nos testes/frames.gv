@@ -1,0 +1,11 @@
+digraph G {
+"scanmatcher_frame" -> "front_frame"[label=" Broadcaster: /tf_front\nAverage rate: 30.399\nBuffer length: 4.967\nMost recent transform: 1650371237.609\nOldest transform: 1650371232.641\n"];
+"odom" -> "scanmatcher_frame"[label=" Broadcaster: /hector_mapping\nAverage rate: 34.242\nBuffer length: 4.965\nMost recent transform: 1650371237.57\nOldest transform: 1650371232.605\n"];
+"base_frame" -> "scan"[label=" Broadcaster: /tf_scan\nAverage rate: 30.403\nBuffer length: 4.967\nMost recent transform: 1650371237.611\nOldest transform: 1650371232.644\n"];
+"odom" -> "base_frame"[label=" Broadcaster: /hector_mapping\nAverage rate: 34.242\nBuffer length: 4.965\nMost recent transform: 1650371237.57\nOldest transform: 1650371232.605\n"];
+"map" -> "odom"[label=" Broadcaster: /amcl\nAverage rate: 34.25\nBuffer length: 4.993\nMost recent transform: 1650371237.67\nOldest transform: 1650371232.677\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1650371237.6072917"[ shape=plaintext ] ;
+}->"map";
+}

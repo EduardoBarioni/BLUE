@@ -1,0 +1,25 @@
+ZF
+
+Encoder Direção (visto de dentro):
+	- Meio = (aprox.) 520
+	- Max Esquerda = (aprox.) 350
+	- Max Direita = (aprox.) 650
+
+Seguranca Acelerador:
+	- Não pode ativar quando velocidade é 0, pois faz o AGV andar
+
+- Direção:
+	- Valor indica a "velocidade" do giro
+	- 0 --> Parado
+	- +127 --> Limite superior
+	- -127 --> Limite inferior
+	- Direita = positivo
+	- Esquerda = negativo
+
+- Bateria:
+	- 48.5V = 1.7V central = 500 fw = 55%
+
+- Posicao (visto de dentro):
+	- Esquerda < 4500
+	- Direita > 4500
+
