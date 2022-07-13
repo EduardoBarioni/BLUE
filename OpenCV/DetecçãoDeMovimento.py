@@ -9,7 +9,8 @@ FONT = cv2.FONT_HERSHEY_SIMPLEX
 #VIDEO_SOURCE = "project_video.mp4"
 #VIDEO_SOURCE = "http://192.168.55.116:4747/video"
 #VIDEO_SOURCE = "rtsp://admin:SIBTKK@192.168.55.116/cam/realmonitor?channel=1&subtype=0" #REDE AGVS
-VIDEO_SOURCE = "rtsp://admin:SIBTKK@192.168.0.109/cam/realmonitor?channel=1&subtype=0" #REDE AGVS_escritório
+#VIDEO_SOURCE = "rtsp://admin:SIBTKK@192.168.0.109/cam/realmonitor?channel=1&subtype=0" #REDE AGVS_escritório
+VIDEO_SOURCE = "/home/user/AGVS repository/OpenCV/04.mp4"
 #VIDEO_SOURCE = 0
 
 

@@ -3,6 +3,8 @@ import numpy as np
 cv2.namedWindow("janela")
 VIDEO_SOURCE = "rtsp://admin:SIBTKK@192.168.0.109/cam/realmonitor?channel=1&subtype=0" #REDE AGVS_escritório
 #VIDEO_SOURCE = 0
+VIDEO_SOURCE = "/home/user/AGVS repository/OpenCV/04.mp4"
+VIDEO_SOURCE = "/home/user/AGVS repository/OpenCV/project_video.mp4"
 cap=cv2.VideoCapture(VIDEO_SOURCE)
 def mause(pos):
     pass

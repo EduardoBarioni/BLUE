@@ -10,11 +10,11 @@ FONT = cv2.FONT_HERSHEY_SIMPLEX
 #VIDEO_SOURCE = "project_video.mp4"
 #VIDEO_SOURCE = "http://192.168.55.116:4747/video"
 #VIDEO_SOURCE = "rtsp://admin:SIBTKK@192.168.55.116/cam/realmonitor?channel=1&subtype=0" #REDE AGVS
-VIDEO_SOURCE = "rtsp://admin:SIBTKK@192.168.0.109/cam/realmonitor?channel=1&subtype=0" #REDE AGVS_escritório
+VIDEO_SOURCE = "rtsp://admin:SIBTKK@192.168.0.105/cam/realmonitor?channel=1&subtype=0" #REDE AGVS_escritório
 #VIDEO_SOURCE = 0
 
 LimiarBinarizacao = 125       #este valor eh empirico. Ajuste-o conforme sua necessidade 
-AreaContornoLimiteMin = 50  #este valor eh empirico. Ajuste-o conforme sua necessidade 
+AreaContornoLimiteMin = 5000  #este valor eh empirico. Ajuste-o conforme sua necessidade 
 
 def mause(pos):
     pass
