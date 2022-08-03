@@ -60,7 +60,7 @@ def conselhos():
 def previsaodotempo():
     api_url = "https://api.hgbrasil.com/weather?key=d2e85270" #Previsão do tempo
     api_url = "https://api.hgbrasil.com/weather?key=d2e85270&user_ip=remote" #localizar pelo IP
-    api_url = "https://api.hgbrasil.com/weather?key=d2e85270&city_name=Curitiba,PR"  # localizar pelo nome da cidade
+    api_url = "https://api.hgbrasil.com/weather?key=d2e85270&city_name=curitiba"  # localizar pelo nome da cidade
 
     data = requests.get(api_url)
     data_json = data.json()
@@ -93,10 +93,6 @@ def localização():
 #noticias()
 #piadas()
 #conselhos()
-#previsaodotempo()
+previsaodotempo()
 #financeiro()
 #localização()
-
-nome = "123"
-while len(nome) > 3:
-    print("entrou")

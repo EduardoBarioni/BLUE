@@ -30,7 +30,7 @@ stream.start_stream()
 def GivenCommand():
     #if not util.check_internet():
     #print('vosk')
-    data = stream.read(35000)
+    data = stream.read(25000)
     rec.pause_threshold = 1
     rec.AcceptWaveform(data)
     recIng.pause_threshold = 1

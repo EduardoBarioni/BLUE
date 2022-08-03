@@ -7,7 +7,7 @@ stream = p.open(format=pyaudio.paInt16, channels=1, rate=16000, input=True, fram
 stream.start_stream()
 
 speaker=pyttsx3.init()
-speaker.setProperty('voice', 'pt+f4') #brazil-mbrola-3 #pt+m7
+speaker.setProperty('voice', 'pt+f1') #brazil-mbrola-3 #pt+m7
 # voices = speaker.getProperty('voices')
 # print(voices)
 # speaker.setProperty('voice', voices[-1].id)

@@ -39,9 +39,9 @@ def ouvir_microfone():
 
 	return frase
 
-# frase = ouvir_microfone()
-# cria_audio(frase)
+frase = ouvir_microfone()
+cria_audio(frase)
 
-s = gTTS("Já estamos no período noturno",lang='pt-br')
-s.save('hello.mp3')
-playsound('hello.mp3')
+# s = gTTS(frase,lang='pt-br')
+# s.save('hello.mp3')
+# playsound('hello.mp3')
