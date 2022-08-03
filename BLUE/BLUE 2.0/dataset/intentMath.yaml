@@ -1,0 +1,17 @@
+# clima Intent
+---
+type: intent
+name: realizaCalculo
+slots:
+  - name: conta
+    entity: calulo
+  - name: parcela01
+    entity: snips/number
+  - name: parcela02
+    entity: snips/number
+utterances:
+  - quanto e [parcela01] [conta] [parcela02]
+  - quanto da [parcela01] [conta] [parcela02]
+  - calcule [parcela01] [conta] [parcela02]
+  - faca a conta [parcela01] [conta] [parcela02]
+  - me diga quanto e [parcela01] [conta] [parcela02]

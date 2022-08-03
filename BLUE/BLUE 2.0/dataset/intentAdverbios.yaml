@@ -1,0 +1,26 @@
+# concordar
+---
+type: intent
+name: concordar
+slots:
+  - name: simnao
+    entity: adverbio
+utterances:
+  - sim
+  - isso mesmo
+  - concordo
+  - ok
+  - afirmativo
+
+# descordar
+---
+type: intent
+name: descordar
+slots:
+  - name: simnao
+    entity: adverbio
+utterances:
+  - nao
+  - nao e isso
+  - nao concordo
+  - negativo

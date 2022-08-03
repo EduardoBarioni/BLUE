@@ -1,0 +1,34 @@
+# temperatura da cpu
+---
+type: intent
+name: tempCPU
+
+utterances:
+  - como esta a temperatura da cpu
+  - verificar temperatura da cpu
+  - me diga a temperatura da cpu
+
+# utilização da cpu
+---
+type: intent
+name: utilizacaoCPU
+
+utterances:
+  - qual a utilizacao da cpu
+  - como esta o processamento
+  - como esta a utilizacao da cpu
+  - como esta o uso da cpu
+  - verificar cpu
+  - me diga o uso da cpu
+  - como esta o processamento da cpu
+
+# bateria
+---
+type: intent
+name: statusBateria
+
+utterances:
+  - como a bateria esta
+  - como esta a bateria
+  - me diga como a bateria esta
+  - me diga como esta a bateria

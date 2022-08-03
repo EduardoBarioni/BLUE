@@ -1,0 +1,18 @@
+# clima Intent
+---
+type: intent
+name: verificarClima
+slots:
+  - name: local
+    entity: city
+  - name: date
+    entity: snips/datetime
+utterances:
+  - qual o clima para cidade de [local]
+  - qual a previsão do clima para cidade de [local]
+  - qual a previsão do clima para cidade de [local] para data de [date]
+  - qual o clima de [local]
+  - qual a previsão do clima para [local]
+  - qual a previsão do clima para [local] na data [date]
+  - como vai estar o clima em [local] na data [date]
+  - como vai estar o clima em [local]

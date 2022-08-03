@@ -1,0 +1,13 @@
+# clima Intent
+---
+type: intent
+name: verificarData
+
+utterances:
+  - qual a data de hoje
+  - qual dia e hoje
+  - quando e hoje
+  - que dia e hoje
+  - pode me dizer que dia e hoje
+  - pode me dizer qual e a data de hoje
+  - pode me dizer qual e o dia de hoje

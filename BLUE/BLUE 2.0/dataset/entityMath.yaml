@@ -1,0 +1,10 @@
+# Mach
+---
+type: entity
+name: calulo
+automatically_extensible: yes
+values:
+  - [somar, adcionar, mais, acrescentar, soma]
+  - [subtrair, menos, diminuir, subtracao]
+  - [dividir, dividido, divisao]
+  - [multiplicar, multiplicacao, multiplicado]

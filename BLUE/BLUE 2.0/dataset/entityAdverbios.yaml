@@ -1,0 +1,8 @@
+# City Entity
+---
+type: entity
+name: adverbio
+automatically_extensible: yes
+values:
+  - [sim, ok, com certeza, isso mesmo, concordo, afirmativo]
+  - [nao, nao e isso, nao concordo, negativo]

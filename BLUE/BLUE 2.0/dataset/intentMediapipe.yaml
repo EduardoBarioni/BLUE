@@ -1,0 +1,14 @@
+# MediaPipe
+---
+type: intent
+name: OpenMediaPipe
+#slots:
+#  - name:
+#    entity:
+utterances:
+  - comando de gesto
+  - comando de gestos
+  - brincadeira para duda
+#  - alterar volume da televisao
+#  - altarar canal da televisao
+#  - altear

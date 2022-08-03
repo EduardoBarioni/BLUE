@@ -1,0 +1,20 @@
+# MediaPipe
+---
+type: intent
+name: OpenYolo
+slots:
+  - name: local
+    entity: comodo
+utterances:
+  - abrir reconhecimento de objetos na camera do [local]
+  - abrir reconhecimento de pessoas na camera do [local]
+  - abrir reconhecimento de objeto na camera do [local]
+  - abrir reconhecimento de pessoa na camera do [local]
+  - verificar camera do [local]
+  - abrir camera do [local]
+  - abrir reconhecimento de objetos na camera da [local]
+  - abrir reconhecimento de pessoas na camera da [local]
+  - abrir reconhecimento de objeto na camera da [local]
+  - abrir reconhecimento de pessoa na camera da [local]
+  - verificar camera da [local]
+  - abrir camera da [local]

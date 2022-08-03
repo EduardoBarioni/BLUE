@@ -1,0 +1,21 @@
+# City Entity
+---
+type: entity
+name: city
+automatically_extensible: yes
+values:
+  - curitiba
+  - londrina
+  - [sao paulo, terra da garoa]
+  - guarulhos
+  - [campinas, vira copos]
+  - congonhas
+  - [rio de janeiro, cidade maravilhosa]
+  - santos do mount
+  - salvador
+  - recife
+  - manaus
+  - porto alegre
+  - belo horizonte
+  - brasilia
+  - goiania

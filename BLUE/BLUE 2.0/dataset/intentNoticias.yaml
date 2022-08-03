@@ -1,0 +1,20 @@
+# clima Intent
+---
+type: intent
+name: procuraNoticias
+slots:
+  - name: local
+    entity: city
+  - name: date
+    entity: snips/datetime
+  - name: numero
+    entity: snips/number
+utterances:
+  - quais as noticias
+  - quais as noticias de [date]
+  - quais as noticias de [date] para [local]
+  - quais as noticias de [date] para [local]
+  - quais as [numero] noticias de [date]
+  - me diga as noticias
+  - me diga as noticias de [date]
+  - me diga as [numero] noticias de [date]

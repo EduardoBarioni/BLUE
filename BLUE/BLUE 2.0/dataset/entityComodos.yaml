@@ -1,0 +1,16 @@
+# comodo entity
+---
+type: entity
+name: comodo
+automatically_extensible: yes
+values:
+  - sala
+  - quarto
+  - suite
+  - [jardim, varanda]
+  - cozinha
+  - [copa, sala de jantar]
+  - [quarto de estudo, escritorio]
+  - lavanderia
+  - corredor
+  - garagem

@@ -1,0 +1,10 @@
+# clima Intent
+---
+type: intent
+name: verificarHora
+
+utterances:
+  - qual o horario
+  - que horas sao
+  - me diga as horas
+  - me diga que hora sao
