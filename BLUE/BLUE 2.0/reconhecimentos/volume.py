@@ -33,12 +33,12 @@ def volume(camera):
     area = 0
     colorVol = (255, 0, 0)
 
-    cap = cv2.VideoCapture(camera)
-    cap.set(3, wCam)
-    cap.set(4, hCam)
+    cap01 = cv2.VideoCapture(camera)
+    cap01.set(3, wCam)
+    cap01.set(4, hCam)
     pTime = 0
     while True:
-        success, img = cap.read()
+        success, img = cap01.read()
 
         # Find Hand
         img = detector.findHands(img)
@@ -54,9 +54,9 @@ def volume(camera):
                 length, img, lineInfo = detector.findDistance(4, 8, img)
                 # print(length)
 
-                # # Convert Volume
-                # volBar = np.interp(length, [50, 200], [400, 150])
-                # volPer = np.interp(length, [50, 200], [0, 100])
+                # Convert Volume
+                volBar = np.interp(length, [50, 200], [400, 150])
+                volPer = np.interp(length, [50, 200], [0, 100])
                 #
                 # # Reduce Resolution to make it smoother
                 # smoothness = 10
@@ -92,5 +92,4 @@ def volume(camera):
 
         cv2.imshow("Img", img)
         cv2.waitKey(1)
-
-#volume(camera)
+volume(0)

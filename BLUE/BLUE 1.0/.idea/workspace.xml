@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6511746a-02c6-40fb-bddf-f4497cb6ba7d" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimatedBackGround.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapturaDeTela.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fechar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/disambig_tid.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/ivector/final.ie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/ivector/final.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/ivector/splice.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/mfcc.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model-PTBR/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParaTudoFuncionar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StartSound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blue_1.0_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/am/final.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/am/tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/conf/model.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/graph/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/graph/HCLr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/graph/disambig_tid.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/graph/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/graph/phones/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/graph/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/ivector/final.dubm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/ivector/online_cmvn.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-en-us-0.22-lgraph/ivector/splice.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/am/final.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/am/tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/conf/mfcc.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/HCLr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/phones/align_lexicon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/phones/disambig.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/phones/optional_silence.csl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/phones/optional_silence.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/phones/silence.csl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/phones/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/graph/phones/word_boundary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/ivector/final.dubm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/ivector/final.ie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/ivector/online_cmvn.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/ivector/splice_opts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-pt-fb-v0.1.1-20220516_2113/rescore/G.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/disambig_tid.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/final.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/ivector/final.dubm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/ivector/final.ie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/ivector/splice.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/mfcc.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vosk-model-small-pt-0.3/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BLUE 2.0/cameras/recebeImagens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BLUE 2.0/serial/serialArduino.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/AI.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/AnimatedBackGround.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/CapturaDeTela.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/Fechar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/Icone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/JARVIS_2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/ParaTudoFuncionar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JARVIS_2.0-main/StartSound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS.v11.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/AppsDialog.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/Conversation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/PersonIdentifier.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/SelectVoice.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/StaticWebLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/YoutubeSearch.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/cvextern_gpu.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/opencv_ffmpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/2.0/JARVIS/opencv_video231.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarvisCS-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/.idea/VOZ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/HCLr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/disambig_tid.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/final.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/ivector/final.dubm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/ivector/final.ie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/ivector/final.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/ivector/online_cmvn.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/ivector/splice.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/mfcc.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/HCLr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/disambig_tid.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/final.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/ivector/final.dubm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/ivector/final.ie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/ivector/final.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/ivector/online_cmvn.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/ivector/splice.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/mfcc.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/model01/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/HCLr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/disambig_tid.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/final.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/ivector/final.dubm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/ivector/final.ie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/ivector/final.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/ivector/online_cmvn.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/ivector/splice.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/mfcc.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VOZ/vosk-model-small-pt-0.3/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appblue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appblue/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appblue/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appblue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appblue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appblue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appblue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/Assignments 06.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/labels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/HCLr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/disambig_tid.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/final.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/ivector/final.dubm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/ivector/final.ie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/ivector/final.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/ivector/online_cmvn.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/ivector/splice.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/mfcc.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/model1.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/am/final.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/am/tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/conf/mfcc.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/conf/model.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/graph/Gr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/graph/HCLr.fst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/graph/disambig_tid.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/graph/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/graph/phones/word_boundary.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/graph/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/ivector/final.dubm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/ivector/final.ie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/ivector/final.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/ivector/global_cmvn.stats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/ivector/online_cmvn.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelIng/ivector/splice.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/modelP.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/nlu/classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/nlu/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/nlu/test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/nlu/train.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maria-1.0/tests/tts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BLUE 2.0/reconhecimentos/volume.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BLUE 2.0/reconhecimentos/volume.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BanX6jrrIxSvmsaRdk55GlJaZ4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/catkin_ws/src/blue&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.testAPI">
+    <configuration name="BLUE_1.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BLUE 1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BLUE_1.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BLUE 1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BLUE 1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlu/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testAPI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BLUE 1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testAPI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testfuncao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BLUE 1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testfuncao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testAPI" />
+        <item itemvalue="Python.blue" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.testfuncao" />
+        <item itemvalue="Python.BLUE_1.0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6511746a-02c6-40fb-bddf-f4497cb6ba7d" name="Changes" comment="" />
+      <created>1657153100099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657153100099</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Implementando IA">
+      <created>1657744237508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657744237508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementando IA">
+      <created>1657744344226</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657744344226</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementando IA" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/blue.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

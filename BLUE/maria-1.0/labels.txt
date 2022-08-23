@@ -1,0 +1,6 @@
+time|getDate
+open|chrome
+weather|getWeather
+time|getTime
+agvs|criaprojeto
+open|notepad
